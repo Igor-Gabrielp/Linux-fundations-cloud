@@ -1,30 +1,30 @@
  # Road to cloud: Linux Journey 
- Este repositório documenta minha evolução técnica partindo do zero até a automação de infraestrutura.
+This repository documents my technical evolution, starting from zero to infrastructure automation.
 
-## Nível 0: Fundamentos de navegação e arquitetura. Nesta fase, o foco foi aprender a dominar a "Tela preta" e entender como o sistema linux estrutura-se.
+## Level 0: Navigation and Architecture Fundamentals
+In this phase, the focus was on mastering the "Black Screen" and understanding how the Linux system is structured.
 
 
-
-### Aprendizados adquiridos
- * Comandos de navegação: 
+### Key Learnings
+ * Navigation Commands: 
   `pwd`, `cd`,`cd ..`,`cd ~`.
  
- * Comandos de manipulação: 
-   criar diretorios(`mkdir`), criacao de arquivos(`touch`) e adicionar informacoes ao arquivo(`nano`)
+ * Manipulation Commands: 
+   creating directories(`mkdir`), creating files(`touch`) and adding information to files(`nano`)
 
- * Visualização:
-   para visualizar os arquivos(`ls`), existe sua variação que mostra as permissões e os arquivos ocultos naquele diretório(`ls -la`)
-   visualizar "ler" o que esta dentro dos arquivos(`cat`)
+ * Visualization:
+   To list files(`ls`), including the variation that displays permissions and hidden files in that directory(`ls -la`)
+   Reading file contents(`cat`)
 
- * apagar arquivos e diretórios
-  apaga os arquivos ou diretórios (`rm -r`), existe a sua variação mais rapida e mais utilizada mais deve ser usada somente se entende ela(`rm -rf`)
+ * Deleting Files and Directories
+   Deletes files or directories (`rm -r`). There is a faster and more common variation, though it should only be used if fully understood (`rm -rf`)
 
- * Copiar ou mover diretorios 
- mover ou renomear um diretório(`mv`), e o mesmo que utilizar ctrl + c e ctrl + v
+ * Copying or Moving Directories 
+   Moving or renaming a directory(`mv`), which functions like Ctrl+C and Ctrl+V.
  
 
 
-### Aqui esta a primeira estrutura de diretorios montada manualmente para o projeto `sistema_ifood`
+### Here is the first directory structure manually assembled for the sistema_ifood project:
 
 ```bash
    
